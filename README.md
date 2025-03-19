@@ -1,4 +1,5 @@
-# Challenge-Amigo-Secreto
+#![Captura de pantalla 2025-03-18 203937](https://github.com/user-attachments/assets/c62ae784-f237-40e3-9577-e2874b231c67)
+ Challenge-Amigo-Secreto
 Aplicación web para realizar sorteos de amigo secreto. Permite agregar nombres, validarlos y seleccionar un ganador de forma aleatoria con una interfaz amigable.
 # 🎁 Amigo Secreto - Sorteo Aleatorio 🎉
 
